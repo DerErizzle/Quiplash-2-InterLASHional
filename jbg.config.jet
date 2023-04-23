@@ -3,7 +3,7 @@
 	"canPauseOnPressStart":"true",
 	"gameShortName":"q2i",
 	"uaAppName":"quiplash2-international",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"supportsFullScreen":"true",
 	"needExitbutton":"true",
 	"env":"pc",
